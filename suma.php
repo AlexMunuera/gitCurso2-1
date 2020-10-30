@@ -13,5 +13,5 @@
 	fscanf($stdin,"%d",$b);
 	$r = $a+$b;
 	echo $a,' + ',$b,' = ',$r,PHP_EOL;
-	echo "hola mundo";
+	echo "hola mundo xd";
 ?>
